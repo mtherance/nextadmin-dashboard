@@ -1,0 +1,55 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "admin",
+            "email": "admin@example.com",
+            "password": "12345",
+            "phone": "0788567890",
+            "address": "123 Main St",
+            "isAdmin": true,
+            "isActive": true,
+            "img": "/images/astronaut.png"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Product 1",
+            "desc": "Description of Product 1",
+            "price": 19.99,
+            "stock": 100,
+            "color": "Blue",
+            "size": "M"
+        },
+        {
+            "id": 2,
+            "title": "Product 2",
+            "desc": "Description of Product 2",
+            "price": 29.99,
+            "stock": 50,
+            "color": "Red",
+            "size": "L"
+        }
+    ],
+    "cards": [
+        {
+            "id": 1,
+            "title": "Total Users",
+            "number": 10.928,
+            "change": 12
+        },
+        {
+            "id": 2,
+            "title": "Stock",
+            "number": 8.236,
+            "change": -2
+        },
+        {
+            "id": 3,
+            "title": "Revenue",
+            "number": 6.642,
+            "change": 18
+        }
+    ]
+}
